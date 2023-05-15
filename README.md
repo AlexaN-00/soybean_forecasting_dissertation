@@ -2,6 +2,12 @@ University of Aberdeen - Aleksandra Nenkova
 # Exploration of Soybean Yield Forecasting with Transformers
 This repository host the code for a final project done as part of course requirements in Level 4 at University Of Aberdeen
 
+## Pred_state() issues fix:
+Small issue was caught with the submitted version of the Jupyter notebook. In order to run the 2nd experiment please download the code from GitHub or do the following change to the pred_state(). No further changes are required and notebook should run as intended.
+
+
+![image](https://github.com/AlexaN-00/soybean_forecasting_dissertation/assets/55953609/bd7e9d14-6e04-4b73-85a3-fc2f751778b5)
+
 ## Requirements 
 ### Hardware requirements:
 
