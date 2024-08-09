@@ -45,13 +45,11 @@ for experimentation and prediction of soybean yield with the supplied dataset. A
 are five experiments that can be run:
 
   1. Full dataset forecasting: using full dataset with no changes
-  
   2. Per-state forecasting: separates the dataset into states.
-  3. 
-  4. Non-outlier dataset forecasting: excl. S. Dakota, N. Dakota and Kansas data.
-  5.  Predicting outlier yield with non-outlier-trained models: predicts yield from outlier states
+  3. Non-outlier dataset forecasting: excl. S. Dakota, N. Dakota and Kansas data.
+  4.  Predicting outlier yield with non-outlier-trained models: predicts yield from outlier states
 using the pretrained models from the previous experiment (3).
-  6. Sorted dataset forecasting: uses a chronologically sorted version of the full dataset.
+  5. Sorted dataset forecasting: uses a chronologically sorted version of the full dataset.
 
 In order to run the notebook ensure all requirements are met as described in the Maintenance
 manual below and follow the steps as outlined:
